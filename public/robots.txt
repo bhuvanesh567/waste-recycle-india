@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bhuvanesh567.github.io/Waste-Management-System-/sitemap.xml
