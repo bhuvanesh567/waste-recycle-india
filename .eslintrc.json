@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "extends": ["next/core-web-vitals", "next/typescript"],
   "rules": {
@@ -5,3 +6,12 @@
     "react/no-unescaped-entities": "off"
   }
 }
+=======
+{
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "rules": {
+    "@typescript-eslint/no-unused-vars": "warn",
+    "react/no-unescaped-entities": "off"
+  }
+}
+>>>>>>> f1fffaa3431dd8f8501f99074cb6e3110a7e9dfc
